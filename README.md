@@ -2,7 +2,7 @@
 
 ---
 
-# 🏢 WorkWise - Employee Management System
+# 🏢 WorkSpace - Employee Management System
 
 <div align="center">
 
@@ -24,7 +24,7 @@
 
 ## 📋 Overview
 
-**WorkWise** is a modern, enterprise-grade Employee Management System designed to streamline HR operations, workforce planning, and employee data management. Built with a focus on scalability, security, and user experience. 
+**WorkSpace** is a modern, enterprise-grade Employee Management System designed to streamline HR operations, workforce planning, and employee data management. Built with a focus on scalability, security, and user experience. 
 
 ### 🎯 Problem Statement
 
@@ -36,7 +36,7 @@ Organizations struggle with:
 
 ### 💡 Solution
 
-WorkWise provides a unified platform that centralizes employee management, automates HR workflows, and delivers actionable insights through intuitive dashboards and reporting tools.
+WorkSpace provides a unified platform that centralizes employee management, automates HR workflows, and delivers actionable insights through intuitive dashboards and reporting tools.
 
 ---
 
@@ -429,9 +429,9 @@ This project demonstrates proficiency in:
 
 ## 👩‍💻 Author
 
-**Lakshana**
+**Dhivyaa M**
 
-- GitHub: [@Lakshana07-1108](https://github.com/Lakshana07-1108)
+- GitHub: https://github.com/Dhivyaa12
 
 ---
 
